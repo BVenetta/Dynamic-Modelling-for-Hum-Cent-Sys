@@ -1,0 +1,7 @@
+default(
+had_emotion_regulation{lieve, 0.2}; [1]
+had_emotion_regulation{lieve, 0.8}; [1]
+has_emotion_training{lieve, true};    [1:25]
+has_emotion_training{lieve, false};    [26:50]
+)
+

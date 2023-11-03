@@ -1,0 +1,10 @@
+has_loneliness; {AGENT, SCALE}
+had_lvl_vulnerability;  {AGENT, SCALE}
+had_emotion_regulation; {AGENT, REAL}
+has_expectations;   {AGENT, SCALE}
+has_social_activities;  {AGENT, SCALE}
+has_alcoholism; {AGENT, BOOLEAN}
+has_cardio_disease; {AGENT, BOOLEAN}    
+has_reduced_performance;    {AGENT, BOOLEAN}
+has_emotion_training;   {AGENT, BOOLEAN}
+has_expectation_training;   {AGENT, BOOLEAN}

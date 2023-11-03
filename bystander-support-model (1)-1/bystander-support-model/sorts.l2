@@ -1,0 +1,4 @@
+DESIRE; {<form_of_assistance>,<interpretation_of_situation>,<send_message>}
+PROPOSITION; {<send_message>}
+ACTION; {intervene, none}
+INTERPRETATION; {emergency, normal}

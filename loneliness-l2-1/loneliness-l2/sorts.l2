@@ -1,0 +1,3 @@
+LEVEL;          {high, low}
+OBSERVATION; {<performance>, <cardiovascular_diseases>}
+BELIEF; {<performance>, <cardiovascular_diseases>, <feeling_of_loneliness>}
